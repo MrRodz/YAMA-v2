@@ -167,7 +167,7 @@ blueprint:
       default: scene.none
       selector:
         entity:
-          domain: scene
+          domain: script
 
 
 mode: restart
